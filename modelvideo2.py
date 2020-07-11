@@ -3,6 +3,7 @@ import cv2
 import os
 import time
 
+# this line is used to start the code
 start_time = time.time()
 
 
