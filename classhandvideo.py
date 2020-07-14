@@ -1,3 +1,5 @@
+# classification for hand pose movement
+
 import numpy as np
 import cv2
 import os
