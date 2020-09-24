@@ -1,3 +1,6 @@
+## This code is used to variate the input images. Several transformations can be applied to
+## obtain varied input.
+
 import os
 import cv2
 # example of horizontal shift image augmentation
