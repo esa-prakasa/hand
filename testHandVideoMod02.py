@@ -81,8 +81,8 @@ for modelFile in modelFileList:
   print(str(modIdx)+" "+modelFile)
   modIdx = modIdx + 1
 
-#modIdx = int(input("Which model that will be used? "))
-modIdx = 2
+modIdx = int(input("Which model that will be used? "))
+#modIdx = 2
 
 
 modelName = modelFileList[modIdx]
